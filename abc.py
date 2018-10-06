@@ -1,4 +1,3 @@
 import pandas as pd
 
-a= pd.DataFrame()
-
+b= pd.DataFrame(columns=['A','B','C'])
